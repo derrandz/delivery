@@ -1,0 +1,19 @@
+{
+  "name": "delivery",
+  "version": "1.0.0",
+  "description": "A service to download files directly to preferred storage services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jshrt/delivery.git"
+  },
+  "author": "Hamza OuaƔad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jshrt/delivery/issues"
+  },
+  "homepage": "https://github.com/jshrt/delivery#readme"
+}
